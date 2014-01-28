@@ -1,0 +1,1003 @@
+THello World
+v6
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist build/Release-iphoneos/Hello\ World.app/ResourceRules.plist
+cProcessPCH /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-gaeriipftxlcoyeniaxfseekoqke/Hello\ World-Prefix.pch.pch Hello\ World/Hello\ World-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-eicghezdhamcqfdrpcswaxvxkiqg/Hello\ World-Prefix.pch.pch Hello\ World/Hello\ World-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-dcfgkqodzfjfpygbzsfaqcwbuwww/Hello\ World-Prefix.pch.pch Hello\ World/Hello\ World-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7/main.o /Users/abhishek/Desktop/Office/Hello\ World/Hello\ World/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7/DUViewController.o /Users/abhishek/Desktop/Office/Hello\ World/Hello\ World/DUViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7/DUAppDelegate.o /Users/abhishek/Desktop/Office/Hello\ World/Hello\ World/DUAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7s/main.o /Users/abhishek/Desktop/Office/Hello\ World/Hello\ World/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7s/DUViewController.o /Users/abhishek/Desktop/Office/Hello\ World/Hello\ World/DUViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7s/DUAppDelegate.o /Users/abhishek/Desktop/Office/Hello\ World/Hello\ World/DUAppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/arm64/main.o /Users/abhishek/Desktop/Office/Hello\ World/Hello\ World/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/arm64/DUViewController.o /Users/abhishek/Desktop/Office/Hello\ World/Hello\ World/DUViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/arm64/DUAppDelegate.o /Users/abhishek/Desktop/Office/Hello\ World/Hello\ World/DUAppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7/Hello\ World normal armv7
+cLd /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7s/Hello\ World normal armv7s
+cLd /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/arm64/Hello\ World normal arm64
+cCreateUniversalBinary /Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos/Hello\ World.app/Hello\ World normal armv7\ armv7s\ arm64
+cCopyStringsFile /Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos/Hello\ World.app/en.lproj/InfoPlist.strings Hello\ World/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/abhishek/Desktop/Office/Hello\ World/Hello\ World/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos/Hello\ World.app /Users/abhishek/Desktop/Office/Hello\ World/Hello\ World/Images.xcassets
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
+c00000000525642EE0000000000000110
+t1381384942
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist
+c00000000527843AE0000000000000094
+t1383613358
+s148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist
+c00000000527843AE0000000000000096
+t1383613358
+s150
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
+c00000000527843AE000000000000036B
+t1383613358
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000527843AE00000000000001A0
+t1383613358
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000527843AF0000000000630EB0
+t1383613359
+s6491824
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000527843B0000000000079BFE0
+t1383613360
+s7978976
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000527843B000000000004D63C0
+t1383613360
+s5071808
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c00000000527843B0000000000042AB80
+t1383613360
+s4369280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000527843B000000000003062A0
+t1383613360
+s3170976
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000527843B0000000000006F7F0
+t1383613360
+s456688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000527843B10000000000A92BC0
+t1383613361
+s11086784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000527843B10000000000046ED0
+t1383613361
+s290512
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000527843B20000000000640E80
+t1383613362
+s6557312
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000527843B2000000000017E0C0
+t1383613362
+s1564864
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000527843B400000000025A5AC0
+t1383613364
+s39475904
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c00000000527843B80000000000387B30
+t1383613368
+s3701552
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libSystem.dylib
+c00000000527843BC000000000001D2B0
+t1383613372
+s119472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libobjc.dylib
+c00000000527843BD000000000054C820
+t1383613373
+s5556256
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcache.dylib
+c00000000527843BD0000000000028490
+t1383613373
+s165008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcommonCrypto.dylib
+c00000000527843BD00000000000472B0
+t1383613373
+s291504
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcompiler_rt.dylib
+c00000000527843BD000000000003EB80
+t1383613373
+s256896
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcopyfile.dylib
+c00000000527843BD000000000002AEE0
+t1383613373
+s175840
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcorecrypto.dylib
+c00000000527843BD00000000000E2F20
+t1383613373
+s929568
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdispatch.dylib
+c00000000527843BD00000000000A1FC0
+t1383613373
+s663488
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdyld.dylib
+c00000000527843BD000000000001E8A0
+t1383613373
+s125088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libkeymgr.dylib
+c00000000527843BD000000000000BF00
+t1383613373
+s48896
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/liblaunch.dylib
+c00000000527843BD0000000000034100
+t1383613373
+s213248
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libmacho.dylib
+c00000000527843BD0000000000022F30
+t1383613373
+s143152
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libremovefile.dylib
+c00000000527843BD000000000001D1B0
+t1383613373
+s119216
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_asl.dylib
+c00000000527843BD0000000000051110
+t1383613373
+s332048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_blocks.dylib
+c00000000527843BD0000000000017E90
+t1383613373
+s97936
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_c.dylib
+c00000000527843BD00000000001BA370
+t1383613373
+s1811312
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_configuration.dylib
+c00000000527843BD000000000001EFF0
+t1383613373
+s126960
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_dnssd.dylib
+c00000000527843BD000000000002FA40
+t1383613373
+s195136
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_info.dylib
+c00000000527843BD000000000008B3E0
+t1383613373
+s570336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_kernel.dylib
+c00000000527843BD00000000000B5FC0
+t1383613373
+s745408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_m.dylib
+c00000000527843BD0000000000078620
+t1383613373
+s493088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_malloc.dylib
+c00000000527843BD0000000000060810
+t1383613373
+s395280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_network.dylib
+c00000000527843BD00000000000B6B40
+t1383613373
+s748352
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_notify.dylib
+c00000000527843BD0000000000039D00
+t1383613373
+s236800
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_platform.dylib
+c00000000527843BD000000000003E940
+t1383613373
+s256320
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_pthread.dylib
+c00000000527843BD000000000002CF80
+t1383613373
+s184192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_sandbox.dylib
+c00000000527843BD000000000001EB50
+t1383613373
+s125776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_stats.dylib
+c00000000527843BD000000000001EDE0
+t1383613373
+s126432
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libunwind.dylib
+c00000000527843BD00000000000213C0
+t1383613373
+s136128
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libxpc.dylib
+c00000000527843BD00000000000ADAC0
+t1383613373
+s711360
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000525638CE0000000000000AC9
+t1381382350
+s2761
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+c00000000527843A60000000000005004
+t1383613350
+s20484
+
+N/Users/abhishek/Desktop/Office/Hello World/Hello World/Base.lproj/Main.storyboard
+c0000000052E7980B0000000000000632
+t1390909451
+s1586
+
+N/Users/abhishek/Desktop/Office/Hello World/Hello World/DUAppDelegate.h
+c0000000052E7980B0000000000000117
+t1390909451
+s279
+
+N/Users/abhishek/Desktop/Office/Hello World/Hello World/DUAppDelegate.m
+c0000000052E7980B00000000000007DB
+t1390909451
+s2011
+
+N/Users/abhishek/Desktop/Office/Hello World/Hello World/DUViewController.h
+c0000000052E7980B00000000000000D9
+t1390909451
+s217
+
+N/Users/abhishek/Desktop/Office/Hello World/Hello World/DUViewController.m
+c0000000052E7980B00000000000001F3
+t1390909451
+s499
+
+N/Users/abhishek/Desktop/Office/Hello World/Hello World/Hello World-Info.plist
+c0000000052E7980B00000000000004C0
+t1390909451
+s1216
+
+N/Users/abhishek/Desktop/Office/Hello World/Hello World/Hello World-Prefix.pch
+c0000000052E7980B0000000000000158
+t1390909451
+s344
+
+N/Users/abhishek/Desktop/Office/Hello World/Hello World/Images.xcassets
+c0000000052E7980B0000000000000088
+t1390909451
+s136
+
+N/Users/abhishek/Desktop/Office/Hello World/Hello World/en.lproj/InfoPlist.strings
+c0000000052E7980B000000000000002D
+t1390909451
+s45
+
+N/Users/abhishek/Desktop/Office/Hello World/Hello World/main.m
+c0000000052E7980B0000000000000153
+t1390909451
+s339
+
+N/Users/abhishek/Desktop/Office/Hello World/build/Hello World.build/Release-iphoneos/Hello World.build/Hello World.xcent
+t1390910775
+s404
+
+N/Users/abhishek/Desktop/Office/Hello World/build/Hello World.build/Release-iphoneos/Hello World.build/Objects-normal/arm64/DUAppDelegate.o
+t1390911482
+s69628
+
+N/Users/abhishek/Desktop/Office/Hello World/build/Hello World.build/Release-iphoneos/Hello World.build/Objects-normal/arm64/DUViewController.o
+t1390911482
+s40804
+
+N/Users/abhishek/Desktop/Office/Hello World/build/Hello World.build/Release-iphoneos/Hello World.build/Objects-normal/arm64/Hello World
+t1390911483
+s54116
+
+N/Users/abhishek/Desktop/Office/Hello World/build/Hello World.build/Release-iphoneos/Hello World.build/Objects-normal/arm64/Hello World.LinkFileList
+c0000000052E79C70000000000000019B
+t1390910576
+s411
+
+N/Users/abhishek/Desktop/Office/Hello World/build/Hello World.build/Release-iphoneos/Hello World.build/Objects-normal/arm64/main.o
+t1390911481
+s4964
+
+N/Users/abhishek/Desktop/Office/Hello World/build/Hello World.build/Release-iphoneos/Hello World.build/Objects-normal/armv7/DUAppDelegate.o
+t1390911481
+s65176
+
+N/Users/abhishek/Desktop/Office/Hello World/build/Hello World.build/Release-iphoneos/Hello World.build/Objects-normal/armv7/DUViewController.o
+t1390911481
+s41144
+
+N/Users/abhishek/Desktop/Office/Hello World/build/Hello World.build/Release-iphoneos/Hello World.build/Objects-normal/armv7/Hello World
+t1390911483
+s59148
+
+N/Users/abhishek/Desktop/Office/Hello World/build/Hello World.build/Release-iphoneos/Hello World.build/Objects-normal/armv7/Hello World.LinkFileList
+c0000000052E79C70000000000000019B
+t1390910576
+s411
+
+N/Users/abhishek/Desktop/Office/Hello World/build/Hello World.build/Release-iphoneos/Hello World.build/Objects-normal/armv7/main.o
+t1390911481
+s4032
+
+N/Users/abhishek/Desktop/Office/Hello World/build/Hello World.build/Release-iphoneos/Hello World.build/Objects-normal/armv7s/DUAppDelegate.o
+t1390911481
+s65176
+
+N/Users/abhishek/Desktop/Office/Hello World/build/Hello World.build/Release-iphoneos/Hello World.build/Objects-normal/armv7s/DUViewController.o
+t1390911481
+s41144
+
+N/Users/abhishek/Desktop/Office/Hello World/build/Hello World.build/Release-iphoneos/Hello World.build/Objects-normal/armv7s/Hello World
+t1390911483
+s59152
+
+N/Users/abhishek/Desktop/Office/Hello World/build/Hello World.build/Release-iphoneos/Hello World.build/Objects-normal/armv7s/Hello World.LinkFileList
+c0000000052E79C70000000000000019E
+t1390910576
+s414
+
+N/Users/abhishek/Desktop/Office/Hello World/build/Hello World.build/Release-iphoneos/Hello World.build/Objects-normal/armv7s/main.o
+t1390911481
+s4032
+
+N/Users/abhishek/Desktop/Office/Hello World/build/Hello World.build/Release-iphoneos/Hello World.build/assetcatalog_dependencies.txt
+t1390910600
+s355
+
+N/Users/abhishek/Desktop/Office/Hello World/build/Hello World.build/Release-iphoneos/Hello World.build/assetcatalog_generated_info.plist
+t1390910600
+s525
+
+N/Users/abhishek/Desktop/Office/Hello World/build/Hello World.build/Release-iphoneos/Hello World.build/com.apple.build-tools.platform.validate
+t2
+s0
+
+N/Users/abhishek/Desktop/Office/Hello World/build/Release-iphoneos/Hello World.app
+t1390910662
+s408
+
+N/Users/abhishek/Desktop/Office/Hello World/build/Release-iphoneos/Hello World.app.dSYM
+t1390910661
+s102
+
+N/Users/abhishek/Desktop/Office/Hello World/build/Release-iphoneos/Hello World.app/Base.lproj/Main.storyboardc
+t1390910602
+s170
+
+N/Users/abhishek/Desktop/Office/Hello World/build/Release-iphoneos/Hello World.app/Hello World
+t1390910777
+s211936
+
+N/Users/abhishek/Desktop/Office/Hello World/build/Release-iphoneos/Hello World.app/Info.plist
+t1390910602
+s1296
+
+N/Users/abhishek/Desktop/Office/Hello World/build/Release-iphoneos/Hello World.app/PkgInfo
+t1390910602
+s8
+
+N/Users/abhishek/Desktop/Office/Hello World/build/Release-iphoneos/Hello World.app/ResourceRules.plist
+t1390910576
+s150
+
+N/Users/abhishek/Desktop/Office/Hello World/build/Release-iphoneos/Hello World.app/embedded.mobileprovision
+t1390910603
+s8292
+
+N/Users/abhishek/Desktop/Office/Hello World/build/Release-iphoneos/Hello World.app/en.lproj/InfoPlist.strings
+t1390910584
+s42
+
+N/Users/abhishek/Library/MobileDevice/Provisioning Profiles/47A9BD2C-3A49-47CC-819C-7B0F55536CF1.mobileprovision
+c00000000527B8E190000000000002064
+t1383829017
+s8292
+
+N/var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello World-Prefix-bsccveqqqfghrxayxurreoftkfll/Hello World-Prefix.pch.pch
+t1390910580
+s81112
+
+N/var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello World-Prefix-dcfgkqodzfjfpygbzsfaqcwbuwww/Hello World-Prefix.pch.pch
+t1390911481
+s96340
+
+N/var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello World-Prefix-eicghezdhamcqfdrpcswaxvxkiqg/Hello World-Prefix.pch.pch
+t1390911480
+s81396
+
+N/var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello World-Prefix-exzhqqsgdelyrgfrcmfziytozvyd/Hello World-Prefix.pch.pch
+t1390910580
+s81132
+
+N/var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello World-Prefix-gaeriipftxlcoyeniaxfseekoqke/Hello World-Prefix.pch.pch
+t1390911480
+s81428
+
+N/var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello World-Prefix-glcmbucbrvrqmqctbobzgqsfleqs/Hello World-Prefix.pch.pch
+t1390910581
+s96060
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies3dd44a73d797b841^74b29475d797b841^---0#1#1#--18"Check dependencies36"22B81F10-D6C0-4BFB-AD26-58512112AA31-
+
+CCodeSign /Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos/Hello\ World.app
+s412603575.079249
+e412603577.378872
+r1
+xCodeSign
+x/Users/abhishek/Desktop/Office/Hello World/build/Release-iphoneos/Hello World.app
+o/Users/abhishek/Desktop/Office/Hello World/build/Release-iphoneos/Hello World.app: replacing existing signature
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"[1mCodeSign[0m [1mbuild/Release-iphoneos/Hello\ World.app[0m64"[1mCodeSign[0m [1mbuild/Release-iphoneos/Hello\ World.app[0m0c7914b7d497b841^d00d61b9d497b841^-112"/Users/abhishek/Desktop/Office/Hello World/build/Release-iphoneos/Hello World.app: replacing existing signature-0#0#1#-19%DVTDocumentLocation2@102"file://localhost/Users/abhishek/Desktop/Office/Hello%20World/build/Release-iphoneos/Hello%20World.app/0000000000000000^1082"[1mCodeSign[0m [1mbuild/Release-iphoneos/Hello\ World.app[0m    cd "/Users/abhishek/Desktop/Office/Hello World"    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    Using code signing identity "iPhone Developer: archana patchirajan (C42YZ53TC9)" and provisioning profile "iOS Team Provisioning Profile: *" (47A9BD2C-3A49-47CC-819C-7B0F55536CF1)    codesign --force --sign AF815B8CA4AD347B84360C567BB5DC18DD73D05D --resource-rules=/Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos/Hello\ World.app/ResourceRules.plist --entitlements /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World.xcent /Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos/Hello\ World.app36"1F9395B8-A922-4089-BDD0-CD3E734FE4FD-
+b025A7F23-739F-4D09-B61A-6617B0209779
+
+CCompileAssetCatalog /Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos/Hello\ World.app /Users/abhishek/Desktop/Office/Hello\ World/Hello\ World/Images.xcassets
+s412604283.636578
+e412604284.867428
+r1
+xCompileAssetCatalog
+x/Users/abhishek/Desktop/Office/Hello World/build/Release-iphoneos/Hello World.app
+x/Users/abhishek/Desktop/Office/Hello World/Hello World/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/abhishek/Desktop/Office/Hello World/build/Release-iphoneos/Hello World.app/LaunchImage-700-568h@2x.png
+o/Users/abhishek/Desktop/Office/Hello World/build/Release-iphoneos/Hello World.app/LaunchImage-568h@2x.png
+o/Users/abhishek/Desktop/Office/Hello World/build/Hello World.build/Release-iphoneos/Hello World.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"[1mCompileAssetCatalog[0m build/Release-iphoneos/Hello\ World.app [1mHello\ World/Images.xcassets[0m104"[1mCompileAssetCatalog[0m build/Release-iphoneos/Hello\ World.app [1mHello\ World/Images.xcassets[0mcb10a37bd797b841^5340de7cd797b841^-396"/* com.apple.actool.compilation-results *//Users/abhishek/Desktop/Office/Hello World/build/Release-iphoneos/Hello World.app/LaunchImage-700-568h@2x.png/Users/abhishek/Desktop/Office/Hello World/build/Release-iphoneos/Hello World.app/LaunchImage-568h@2x.png/Users/abhishek/Desktop/Office/Hello World/build/Hello World.build/Release-iphoneos/Hello World.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@91"file://localhost/Users/abhishek/Desktop/Office/Hello%20World/Hello%20World/Images.xcassets/0000000000000000^1141"[1mCompileAssetCatalog[0m build/Release-iphoneos/Hello\ World.app [1mHello\ World/Images.xcassets[0m    cd "/Users/abhishek/Desktop/Office/Hello World"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphoneos --minimum-deployment-target 4.3 --target-device iphone --compress-pngs --compile /Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos/Hello\ World.app /Users/abhishek/Desktop/Office/Hello\ World/Hello\ World/Images.xcassets36"BB247776-74F4-446A-985B-206FAA6137B9-
+bC00D1906-B96C-496F-BB97-7AB803788B8D
+
+CCompileC build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/arm64/DUAppDelegate.o /Users/abhishek/Desktop/Office/Hello\ World/Hello\ World/DUAppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412604281.933605
+e412604282.053825
+r1
+xCompileC
+xbuild/Hello World.build/Release-iphoneos/Hello World.build/Objects-normal/arm64/DUAppDelegate.o
+x/Users/abhishek/Desktop/Office/Hello World/Hello World/DUAppDelegate.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/abhishek/Desktop/Office/Hello World/Hello World/DUAppDelegate.m
+d/Users/abhishek/Desktop/Office/Hello World/Hello World/DUAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/abhishek/Desktop/Office/Hello World/Hello World/DUAppDelegate.m220"[1mCompileC[0m build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/arm64/DUAppDelegate.o [1mHello\ World/DUAppDelegate.m[0m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler552fef79d797b841^00c80d7ad797b841^---0#0#1#-19%DVTDocumentLocation2@90"file://localhost/Users/abhishek/Desktop/Office/Hello%20World/Hello%20World/DUAppDelegate.m0000000000000000^3751"[1mCompileC[0m build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/arm64/DUAppDelegate.o [1mHello\ World/DUAppDelegate.m[0m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/abhishek/Desktop/Office/Hello World"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-generated-files.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-own-target-headers.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-all-target-headers.hmap -iquote /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-project-headers.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/DerivedSources/arm64 -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/DerivedSources -F/Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos -include /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-dcfgkqodzfjfpygbzsfaqcwbuwww/Hello\ World-Prefix.pch -MMD -MT dependencies -MF /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/arm64/DUAppDelegate.d --serialize-diagnostics /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/arm64/DUAppDelegate.dia -c /Users/abhishek/Desktop/Office/Hello\ World/Hello\ World/DUAppDelegate.m -o /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/arm64/DUAppDelegate.o36"F868DE2C-96DB-4A89-979D-FF03BD9E8C19-
+bC00D1906-B96C-496F-BB97-7AB803788B8D
+
+CCompileC build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/arm64/DUViewController.o /Users/abhishek/Desktop/Office/Hello\ World/Hello\ World/DUViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412604281.930255
+e412604282.031772
+r1
+xCompileC
+xbuild/Hello World.build/Release-iphoneos/Hello World.build/Objects-normal/arm64/DUViewController.o
+x/Users/abhishek/Desktop/Office/Hello World/Hello World/DUViewController.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/abhishek/Desktop/Office/Hello World/Hello World/DUViewController.m
+d/Users/abhishek/Desktop/Office/Hello World/Hello World/DUViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/abhishek/Desktop/Office/Hello World/Hello World/DUViewController.m226"[1mCompileC[0m build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/arm64/DUViewController.o [1mHello\ World/DUViewController.m[0m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler344bee79d797b841^af21087ad797b841^---0#0#1#-19%DVTDocumentLocation2@93"file://localhost/Users/abhishek/Desktop/Office/Hello%20World/Hello%20World/DUViewController.m0000000000000000^3769"[1mCompileC[0m build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/arm64/DUViewController.o [1mHello\ World/DUViewController.m[0m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/abhishek/Desktop/Office/Hello World"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-generated-files.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-own-target-headers.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-all-target-headers.hmap -iquote /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-project-headers.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/DerivedSources/arm64 -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/DerivedSources -F/Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos -include /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-dcfgkqodzfjfpygbzsfaqcwbuwww/Hello\ World-Prefix.pch -MMD -MT dependencies -MF /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/arm64/DUViewController.d --serialize-diagnostics /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/arm64/DUViewController.dia -c /Users/abhishek/Desktop/Office/Hello\ World/Hello\ World/DUViewController.m -o /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/arm64/DUViewController.o36"9548D503-5DEB-4D9A-9C66-138549FB2561-
+bC00D1906-B96C-496F-BB97-7AB803788B8D
+
+CCompileC build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/arm64/main.o /Users/abhishek/Desktop/Office/Hello\ World/Hello\ World/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412604281.864949
+e412604281.931202
+r1
+xCompileC
+xbuild/Hello World.build/Release-iphoneos/Hello World.build/Objects-normal/arm64/main.o
+x/Users/abhishek/Desktop/Office/Hello World/Hello World/main.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/abhishek/Desktop/Office/Hello World/Hello World/main.m
+d/Users/abhishek/Desktop/Office/Hello World/Hello World/DUAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/abhishek/Desktop/Office/Hello World/Hello World/main.m202"[1mCompileC[0m build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/arm64/main.o [1mHello\ World/main.m[0m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler7496dd79d797b841^2c64ee79d797b841^---0#0#1#-19%DVTDocumentLocation2@81"file://localhost/Users/abhishek/Desktop/Office/Hello%20World/Hello%20World/main.m0000000000000000^3697"[1mCompileC[0m build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/arm64/main.o [1mHello\ World/main.m[0m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/abhishek/Desktop/Office/Hello World"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-generated-files.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-own-target-headers.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-all-target-headers.hmap -iquote /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-project-headers.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/DerivedSources/arm64 -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/DerivedSources -F/Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos -include /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-dcfgkqodzfjfpygbzsfaqcwbuwww/Hello\ World-Prefix.pch -MMD -MT dependencies -MF /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/arm64/main.d --serialize-diagnostics /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/arm64/main.dia -c /Users/abhishek/Desktop/Office/Hello\ World/Hello\ World/main.m -o /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/arm64/main.o36"4905C670-DD34-44C1-85CC-A1A4AC156FDE-
+bC00D1906-B96C-496F-BB97-7AB803788B8D
+
+CCompileC build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7/DUAppDelegate.o /Users/abhishek/Desktop/Office/Hello\ World/Hello\ World/DUAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412604281.662167
+e412604281.793621
+r1
+xCompileC
+xbuild/Hello World.build/Release-iphoneos/Hello World.build/Objects-normal/armv7/DUAppDelegate.o
+x/Users/abhishek/Desktop/Office/Hello World/Hello World/DUAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/abhishek/Desktop/Office/Hello World/Hello World/DUAppDelegate.m
+d/Users/abhishek/Desktop/Office/Hello World/Hello World/DUAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/abhishek/Desktop/Office/Hello World/Hello World/DUAppDelegate.m220"[1mCompileC[0m build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7/DUAppDelegate.o [1mHello\ World/DUAppDelegate.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler32ada979d797b841^564acb79d797b841^---0#0#1#-19%DVTDocumentLocation2@90"file://localhost/Users/abhishek/Desktop/Office/Hello%20World/Hello%20World/DUAppDelegate.m0000000000000000^3751"[1mCompileC[0m build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7/DUAppDelegate.o [1mHello\ World/DUAppDelegate.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/abhishek/Desktop/Office/Hello World"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-generated-files.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-own-target-headers.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-all-target-headers.hmap -iquote /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-project-headers.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/DerivedSources/armv7 -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/DerivedSources -F/Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos -include /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-gaeriipftxlcoyeniaxfseekoqke/Hello\ World-Prefix.pch -MMD -MT dependencies -MF /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7/DUAppDelegate.d --serialize-diagnostics /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7/DUAppDelegate.dia -c /Users/abhishek/Desktop/Office/Hello\ World/Hello\ World/DUAppDelegate.m -o /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7/DUAppDelegate.o36"B4FCF4F4-E647-4090-9C4E-8010C726365E-
+bC00D1906-B96C-496F-BB97-7AB803788B8D
+
+CCompileC build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7/DUViewController.o /Users/abhishek/Desktop/Office/Hello\ World/Hello\ World/DUViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412604281.552232
+e412604281.680092
+r1
+xCompileC
+xbuild/Hello World.build/Release-iphoneos/Hello World.build/Objects-normal/armv7/DUViewController.o
+x/Users/abhishek/Desktop/Office/Hello World/Hello World/DUViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/abhishek/Desktop/Office/Hello World/Hello World/DUViewController.m
+d/Users/abhishek/Desktop/Office/Hello World/Hello World/DUViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/abhishek/Desktop/Office/Hello World/Hello World/DUViewController.m226"[1mCompileC[0m build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7/DUViewController.o [1mHello\ World/DUViewController.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerb2808d79d797b841^0f63ae79d797b841^---0#0#1#-19%DVTDocumentLocation2@93"file://localhost/Users/abhishek/Desktop/Office/Hello%20World/Hello%20World/DUViewController.m0000000000000000^3769"[1mCompileC[0m build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7/DUViewController.o [1mHello\ World/DUViewController.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/abhishek/Desktop/Office/Hello World"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-generated-files.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-own-target-headers.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-all-target-headers.hmap -iquote /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-project-headers.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/DerivedSources/armv7 -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/DerivedSources -F/Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos -include /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-gaeriipftxlcoyeniaxfseekoqke/Hello\ World-Prefix.pch -MMD -MT dependencies -MF /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7/DUViewController.d --serialize-diagnostics /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7/DUViewController.dia -c /Users/abhishek/Desktop/Office/Hello\ World/Hello\ World/DUViewController.m -o /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7/DUViewController.o36"1E4F82E3-CE99-48CC-A1B9-C4B646529DBA-
+bC00D1906-B96C-496F-BB97-7AB803788B8D
+
+CCompileC build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7/main.o /Users/abhishek/Desktop/Office/Hello\ World/Hello\ World/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412604281.551880
+e412604281.660698
+r1
+xCompileC
+xbuild/Hello World.build/Release-iphoneos/Hello World.build/Objects-normal/armv7/main.o
+x/Users/abhishek/Desktop/Office/Hello World/Hello World/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/abhishek/Desktop/Office/Hello World/Hello World/main.m
+d/Users/abhishek/Desktop/Office/Hello World/Hello World/DUAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/abhishek/Desktop/Office/Hello World/Hello World/main.m202"[1mCompileC[0m build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7/main.o [1mHello\ World/main.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler21778d79d797b841^5663a979d797b841^---0#0#1#-19%DVTDocumentLocation2@81"file://localhost/Users/abhishek/Desktop/Office/Hello%20World/Hello%20World/main.m0000000000000000^3697"[1mCompileC[0m build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7/main.o [1mHello\ World/main.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/abhishek/Desktop/Office/Hello World"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-generated-files.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-own-target-headers.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-all-target-headers.hmap -iquote /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-project-headers.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/DerivedSources/armv7 -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/DerivedSources -F/Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos -include /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-gaeriipftxlcoyeniaxfseekoqke/Hello\ World-Prefix.pch -MMD -MT dependencies -MF /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7/main.dia -c /Users/abhishek/Desktop/Office/Hello\ World/Hello\ World/main.m -o /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7/main.o36"41C4D774-E630-48C3-A4D7-58C33F82EEDB-
+bC00D1906-B96C-496F-BB97-7AB803788B8D
+
+CCompileC build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7s/DUAppDelegate.o /Users/abhishek/Desktop/Office/Hello\ World/Hello\ World/DUAppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412604281.796005
+e412604281.925386
+r1
+xCompileC
+xbuild/Hello World.build/Release-iphoneos/Hello World.build/Objects-normal/armv7s/DUAppDelegate.o
+x/Users/abhishek/Desktop/Office/Hello World/Hello World/DUAppDelegate.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/abhishek/Desktop/Office/Hello World/Hello World/DUAppDelegate.m
+d/Users/abhishek/Desktop/Office/Hello World/Hello World/DUAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/abhishek/Desktop/Office/Hello World/Hello World/DUAppDelegate.m222"[1mCompileC[0m build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7s/DUAppDelegate.o [1mHello\ World/DUAppDelegate.m[0m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler9eefcb79d797b841^b404ed79d797b841^---0#0#1#-19%DVTDocumentLocation2@90"file://localhost/Users/abhishek/Desktop/Office/Hello%20World/Hello%20World/DUAppDelegate.m0000000000000000^3758"[1mCompileC[0m build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7s/DUAppDelegate.o [1mHello\ World/DUAppDelegate.m[0m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/abhishek/Desktop/Office/Hello World"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-generated-files.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-own-target-headers.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-all-target-headers.hmap -iquote /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-project-headers.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/DerivedSources/armv7s -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/DerivedSources -F/Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos -include /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-eicghezdhamcqfdrpcswaxvxkiqg/Hello\ World-Prefix.pch -MMD -MT dependencies -MF /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7s/DUAppDelegate.d --serialize-diagnostics /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7s/DUAppDelegate.dia -c /Users/abhishek/Desktop/Office/Hello\ World/Hello\ World/DUAppDelegate.m -o /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7s/DUAppDelegate.o36"1FFCAAC4-4687-44AB-A65A-9693D7DD8502-
+bC00D1906-B96C-496F-BB97-7AB803788B8D
+
+CCompileC build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7s/DUViewController.o /Users/abhishek/Desktop/Office/Hello\ World/Hello\ World/DUViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412604281.750400
+e412604281.863539
+r1
+xCompileC
+xbuild/Hello World.build/Release-iphoneos/Hello World.build/Objects-normal/armv7s/DUViewController.o
+x/Users/abhishek/Desktop/Office/Hello World/Hello World/DUViewController.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/abhishek/Desktop/Office/Hello World/Hello World/DUViewController.m
+d/Users/abhishek/Desktop/Office/Hello World/Hello World/DUViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/abhishek/Desktop/Office/Hello World/Hello World/DUViewController.m228"[1mCompileC[0m build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7s/DUViewController.o [1mHello\ World/DUViewController.m[0m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerf643c079d797b841^dc2ddd79d797b841^---0#0#1#-19%DVTDocumentLocation2@93"file://localhost/Users/abhishek/Desktop/Office/Hello%20World/Hello%20World/DUViewController.m0000000000000000^3776"[1mCompileC[0m build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7s/DUViewController.o [1mHello\ World/DUViewController.m[0m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/abhishek/Desktop/Office/Hello World"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-generated-files.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-own-target-headers.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-all-target-headers.hmap -iquote /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-project-headers.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/DerivedSources/armv7s -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/DerivedSources -F/Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos -include /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-eicghezdhamcqfdrpcswaxvxkiqg/Hello\ World-Prefix.pch -MMD -MT dependencies -MF /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7s/DUViewController.d --serialize-diagnostics /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7s/DUViewController.dia -c /Users/abhishek/Desktop/Office/Hello\ World/Hello\ World/DUViewController.m -o /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7s/DUViewController.o36"CC7B31E6-2335-428F-B15E-7A968AB3D19B-
+bC00D1906-B96C-496F-BB97-7AB803788B8D
+
+CCompileC build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7s/main.o /Users/abhishek/Desktop/Office/Hello\ World/Hello\ World/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412604281.681613
+e412604281.748958
+r1
+xCompileC
+xbuild/Hello World.build/Release-iphoneos/Hello World.build/Objects-normal/armv7s/main.o
+x/Users/abhishek/Desktop/Office/Hello World/Hello World/main.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/abhishek/Desktop/Office/Hello World/Hello World/main.m
+d/Users/abhishek/Desktop/Office/Hello World/Hello World/DUAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/abhishek/Desktop/Office/Hello World/Hello World/main.m204"[1mCompileC[0m build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7s/main.o [1mHello\ World/main.m[0m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler05a7ae79d797b841^b1dbbf79d797b841^---0#0#1#-19%DVTDocumentLocation2@81"file://localhost/Users/abhishek/Desktop/Office/Hello%20World/Hello%20World/main.m0000000000000000^3704"[1mCompileC[0m build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7s/main.o [1mHello\ World/main.m[0m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/abhishek/Desktop/Office/Hello World"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-generated-files.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-own-target-headers.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-all-target-headers.hmap -iquote /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-project-headers.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/DerivedSources/armv7s -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/DerivedSources -F/Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos -include /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-eicghezdhamcqfdrpcswaxvxkiqg/Hello\ World-Prefix.pch -MMD -MT dependencies -MF /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7s/main.d --serialize-diagnostics /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7s/main.dia -c /Users/abhishek/Desktop/Office/Hello\ World/Hello\ World/main.m -o /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7s/main.o36"5F52D0E1-B884-480C-AF5A-707847010947-
+bC00D1906-B96C-496F-BB97-7AB803788B8D
+
+CCompileStoryboard /Users/abhishek/Desktop/Office/Hello\ World/Hello\ World/Base.lproj/Main.storyboard
+s412604283.635880
+e412604285.148817
+r0
+xCompileStoryboard
+x/Users/abhishek/Desktop/Office/Hello World/Hello World/Base.lproj/Main.storyboard
+o/* com.apple.ibtool.warnings */
+o/Users/abhishek/Desktop/Office/Hello World/Hello World/Base.lproj/Main.storyboard: warning: Internationalization of /Users/abhishek/Desktop/Office/Hello World/Hello World/Base.lproj/Main.storyboard is not available when compiling for targets before iOS 6.0
+o/* com.apple.ibtool.errors */
+o/Users/abhishek/Desktop/Office/Hello World/Hello World/Base.lproj/Main.storyboard: error: Storyboards require iOS 5.0 or later.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"[1mCompileStoryboard[0m [1mHello\ World/Base.lproj/Main.storyboard[0m73"[1mCompileStoryboard[0m [1mHello\ World/Base.lproj/Main.storyboard[0mb8e6a27bd797b841^b132267dd797b841^-447"/* com.apple.ibtool.warnings *//Users/abhishek/Desktop/Office/Hello World/Hello World/Base.lproj/Main.storyboard: warning: Internationalization of /Users/abhishek/Desktop/Office/Hello World/Hello World/Base.lproj/Main.storyboard is not available when compiling for targets before iOS 6.0/* com.apple.ibtool.errors *//Users/abhishek/Desktop/Office/Hello World/Hello World/Base.lproj/Main.storyboard: error: Storyboards require iOS 5.0 or later.2(21%IDEActivityLogMessage2@164"Internationalization of /Users/abhishek/Desktop/Office/Hello World/Hello World/Base.lproj/Main.storyboard is not available when compiling for targets before iOS 6.0-412604285#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@101"file://localhost/Users/abhishek/Desktop/Office/Hello%20World/Hello%20World/Base.lproj/Main.storyboard0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#45"Interface Builder Storyboard Compiler Warning--2@37"Storyboards require iOS 5.0 or later.-412604285#18446744073709551615#0#-2#-3@101"file://localhost/Users/abhishek/Desktop/Office/Hello%20World/Hello%20World/Base.lproj/Main.storyboard0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#43"Interface Builder Storyboard Compiler Error--0#0#1#-19%DVTDocumentLocation4@101"file://localhost/Users/abhishek/Desktop/Office/Hello%20World/Hello%20World/Base.lproj/Main.storyboard0000000000000000^866"[1mCompileStoryboard[0m [1mHello\ World/Base.lproj/Main.storyboard[0m    cd "/Users/abhishek/Desktop/Office/Hello World"    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 4.3 --output-format human-readable-text --compile /Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos/Hello\ World.app/Base.lproj/Main.storyboardc /Users/abhishek/Desktop/Office/Hello\ World/Hello\ World/Base.lproj/Main.storyboard36"E6AFD4E9-1656-45E3-8388-2402B9CFA476-
+bC00D1906-B96C-496F-BB97-7AB803788B8D
+
+CCopyStringsFile /Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos/Hello\ World.app/en.lproj/InfoPlist.strings Hello\ World/en.lproj/InfoPlist.strings
+s412603384.678328
+e412603384.718500
+r1
+xCopyStringsFile
+x/Users/abhishek/Desktop/Office/Hello World/build/Release-iphoneos/Hello World.app/en.lproj/InfoPlist.strings
+xHello World/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy Hello World/en.lproj/InfoPlist.strings130"[1mCopyStringsFile[0m build/Release-iphoneos/Hello\ World.app/en.lproj/InfoPlist.strings Hello\ World/en.lproj/InfoPlist.stringsf8c5adf8d397b841^24f0b7f8d397b841^---0#0#1#-19%DVTDocumentLocation2@101"file://localhost/Users/abhishek/Desktop/Office/Hello%20World/Hello%20World/en.lproj/InfoPlist.strings0000000000000000^643"[1mCopyStringsFile[0m build/Release-iphoneos/Hello\ World.app/en.lproj/InfoPlist.strings Hello\ World/en.lproj/InfoPlist.strings    cd "/Users/abhishek/Desktop/Office/Hello World"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos/Hello\ World.app/en.lproj -- Hello\ World/en.lproj/InfoPlist.strings36"B6393513-996F-46D6-A3A8-EF64DD5E9BC7-
+b2E053950-EA97-4968-9D68-FC10A271E471
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist build/Release-iphoneos/Hello\ World.app/ResourceRules.plist
+s412603376.589688
+e412603376.611692
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist
+xbuild/Release-iphoneos/Hello World.app/ResourceRules.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/Release-iphoneos/Hello World.app/ResourceRules.plist200"[1mCpResource[0m /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist build/Release-iphoneos/Hello\ World.app/ResourceRules.plista0c49bf0d397b841^5f989cf0d397b841^---0#0#1#-19%DVTDocumentLocation2@121"file://localhost/Users/abhishek/Desktop/Office/Hello%20World/build/Release-iphoneos/Hello%20World.app/ResourceRules.plist0098fc25e1fcdf42^931"[1mCpResource[0m /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist build/Release-iphoneos/Hello\ World.app/ResourceRules.plist    cd "/Users/abhishek/Desktop/Office/Hello World"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist /Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos/Hello\ World.app36"C2D38C58-C369-4F0D-AF32-375A65F187F3-
+b2E053950-EA97-4968-9D68-FC10A271E471
+
+CCreateUniversalBinary /Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos/Hello\ World.app/Hello\ World normal armv7\ armv7s\ arm64
+s412604283.609837
+e412604283.626939
+r1
+xCreateUniversalBinary
+x/Users/abhishek/Desktop/Office/Hello World/build/Release-iphoneos/Hello World.app/Hello World
+xnormal
+xarmv7 armv7s arm64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Create universal binary /Users/abhishek/Desktop/Office/Hello World/build/Release-iphoneos/Hello World.app/Hello World118"[1mCreateUniversalBinary[0m [1mbuild/Release-iphoneos/Hello\ World.app/Hello\ World[0m normal armv7\ armv7s\ arm6431429c7bd797b841^b680a07bd797b841^---0#0#1#-19%DVTDocumentLocation2@115"file://localhost/Users/abhishek/Desktop/Office/Hello%20World/build/Release-iphoneos/Hello%20World.app/Hello%20World0000000000000000^945"[1mCreateUniversalBinary[0m [1mbuild/Release-iphoneos/Hello\ World.app/Hello\ World[0m normal armv7\ armv7s\ arm64    cd "/Users/abhishek/Desktop/Office/Hello World"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    lipo -create /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7/Hello\ World /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7s/Hello\ World /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/arm64/Hello\ World -output /Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos/Hello\ World.app/Hello\ World36"5437A54D-257B-41B3-88C1-BEFB6389280E-
+bC00D1906-B96C-496F-BB97-7AB803788B8D
+
+CGenerateDSYMFile /Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos/Hello\ World.app.dSYM /Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos/Hello\ World.app/Hello\ World
+s412603574.728593
+e412603575.054080
+r1
+xGenerateDSYMFile
+x/Users/abhishek/Desktop/Office/Hello World/build/Release-iphoneos/Hello World.app.dSYM
+x/Users/abhishek/Desktop/Office/Hello World/build/Release-iphoneos/Hello World.app/Hello World
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Generate /Users/abhishek/Desktop/Office/Hello World/build/Release-iphoneos/Hello World.app.dSYM130"[1mGenerateDSYMFile[0m [1mbuild/Release-iphoneos/Hello\ World.app.dSYM[0m build/Release-iphoneos/Hello\ World.app/Hello\ World57b3bab6d497b841^dbdb0db7d497b841^---0#0#1#-19%DVTDocumentLocation2@107"file://localhost/Users/abhishek/Desktop/Office/Hello%20World/build/Release-iphoneos/Hello%20World.app.dSYM/0000000000000000^706"[1mGenerateDSYMFile[0m [1mbuild/Release-iphoneos/Hello\ World.app.dSYM[0m build/Release-iphoneos/Hello\ World.app/Hello\ World    cd "/Users/abhishek/Desktop/Office/Hello World"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos/Hello\ World.app/Hello\ World -o /Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos/Hello\ World.app.dSYM36"00B761B1-8FBE-4CAD-83E5-A06F8D343AF7-
+b025A7F23-739F-4D09-B61A-6617B0209779
+
+CLd /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/arm64/Hello\ World normal arm64
+s412604283.209430
+e412604283.600337
+r1
+xLd
+x/Users/abhishek/Desktop/Office/Hello World/build/Hello World.build/Release-iphoneos/Hello World.build/Objects-normal/arm64/Hello World
+xnormal
+xarm64
+d/Users/abhishek/Desktop/Office/Hello World/build/Hello World.build/Release-iphoneos/Hello World.build/Objects-normal/arm64/Hello World.LinkFileList
+d/Users/abhishek/Desktop/Office/Hello World/build/Hello World.build/Release-iphoneos/Hello World.build/Objects-normal/arm64/main.o
+d/Users/abhishek/Desktop/Office/Hello World/build/Hello World.build/Release-iphoneos/Hello World.build/Objects-normal/arm64/DUViewController.o
+d/Users/abhishek/Desktop/Office/Hello World/build/Hello World.build/Release-iphoneos/Hello World.build/Objects-normal/arm64/DUAppDelegate.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphoneos.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection139"Link /Users/abhishek/Desktop/Office/Hello World/build/Hello World.build/Release-iphoneos/Hello World.build/Objects-normal/arm64/Hello World118"[1mLd[0m build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/arm64/Hello\ World normal arm640aba357bd797b841^d0b3997bd797b841^---0#0#1#--1437"[1mLd[0m build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/arm64/Hello\ World normal arm64    cd "/Users/abhishek/Desktop/Office/Hello World"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos -F/Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos -filelist /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/arm64/Hello\ World.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=4.3 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/arm64/Hello\ World_dependency_info.dat -o /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/arm64/Hello\ World36"874488C0-1FAA-4363-9589-E8988BD290B4-
+bC00D1906-B96C-496F-BB97-7AB803788B8D
+
+CLd /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7/Hello\ World normal armv7
+s412604282.202592
+e412604283.221245
+r1
+xLd
+x/Users/abhishek/Desktop/Office/Hello World/build/Hello World.build/Release-iphoneos/Hello World.build/Objects-normal/armv7/Hello World
+xnormal
+xarmv7
+d/Users/abhishek/Desktop/Office/Hello World/build/Hello World.build/Release-iphoneos/Hello World.build/Objects-normal/armv7/Hello World.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/crt1.3.1.o
+d/Users/abhishek/Desktop/Office/Hello World/build/Hello World.build/Release-iphoneos/Hello World.build/Objects-normal/armv7/main.o
+d/Users/abhishek/Desktop/Office/Hello World/build/Hello World.build/Release-iphoneos/Hello World.build/Objects-normal/armv7/DUViewController.o
+d/Users/abhishek/Desktop/Office/Hello World/build/Hello World.build/Release-iphoneos/Hello World.build/Objects-normal/armv7/DUAppDelegate.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphoneos.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libgcc_s.1.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection139"Link /Users/abhishek/Desktop/Office/Hello World/build/Hello World.build/Release-iphoneos/Hello World.build/Objects-normal/armv7/Hello World118"[1mLd[0m build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7/Hello\ World normal armv750fd337ad797b841^fad5387bd797b841^---0#0#1#--1437"[1mLd[0m build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7/Hello\ World normal armv7    cd "/Users/abhishek/Desktop/Office/Hello World"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos -F/Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos -filelist /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7/Hello\ World.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=4.3 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7/Hello\ World_dependency_info.dat -o /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7/Hello\ World36"94656165-43AC-477C-89A2-EE9F16EDD2B8-
+bC00D1906-B96C-496F-BB97-7AB803788B8D
+
+CLd /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7s/Hello\ World normal armv7s
+s412604282.203105
+e412604283.206089
+r1
+xLd
+x/Users/abhishek/Desktop/Office/Hello World/build/Hello World.build/Release-iphoneos/Hello World.build/Objects-normal/armv7s/Hello World
+xnormal
+xarmv7s
+d/Users/abhishek/Desktop/Office/Hello World/build/Hello World.build/Release-iphoneos/Hello World.build/Objects-normal/armv7s/Hello World.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/crt1.3.1.o
+d/Users/abhishek/Desktop/Office/Hello World/build/Hello World.build/Release-iphoneos/Hello World.build/Objects-normal/armv7s/main.o
+d/Users/abhishek/Desktop/Office/Hello World/build/Hello World.build/Release-iphoneos/Hello World.build/Objects-normal/armv7s/DUViewController.o
+d/Users/abhishek/Desktop/Office/Hello World/build/Hello World.build/Release-iphoneos/Hello World.build/Objects-normal/armv7s/DUAppDelegate.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphoneos.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libgcc_s.1.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection140"Link /Users/abhishek/Desktop/Office/Hello World/build/Hello World.build/Release-iphoneos/Hello World.build/Objects-normal/armv7s/Hello World120"[1mLd[0m build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7s/Hello\ World normal armv7s4816347ad797b841^d7c2347bd797b841^---0#0#1#--1443"[1mLd[0m build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7s/Hello\ World normal armv7s    cd "/Users/abhishek/Desktop/Office/Hello World"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7s -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos -F/Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos -filelist /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7s/Hello\ World.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=4.3 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7s/Hello\ World_dependency_info.dat -o /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Objects-normal/armv7s/Hello\ World36"5B02348D-BC9B-4D10-9DF8-1126EF8D211E-
+bC00D1906-B96C-496F-BB97-7AB803788B8D
+
+CProcessInfoPlistFile /Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos/Hello\ World.app/Info.plist /Users/abhishek/Desktop/Office/Hello\ World/Hello\ World/Hello\ World-Info.plist
+s412603402.907634
+e412603402.955191
+r1
+xProcessInfoPlistFile
+x/Users/abhishek/Desktop/Office/Hello World/build/Release-iphoneos/Hello World.app/Info.plist
+x/Users/abhishek/Desktop/Office/Hello World/Hello World/Hello World-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Process /Users/abhishek/Desktop/Office/Hello World/Hello World/Hello World-Info.plist124"[1mProcessInfoPlistFile[0m build/Release-iphoneos/Hello\ World.app/Info.plist [1mHello\ World/Hello\ World-Info.plist[0mc784e80ad497b841^bf9df40ad497b841^---0#0#1#-19%DVTDocumentLocation2@99"file://localhost/Users/abhishek/Desktop/Office/Hello%20World/Hello%20World/Hello%20World-Info.plist0000000000000000^1063"[1mProcessInfoPlistFile[0m build/Release-iphoneos/Hello\ World.app/Info.plist [1mHello\ World/Hello\ World-Info.plist[0m    cd "/Users/abhishek/Desktop/Office/Hello World"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-infoPlistUtility /Users/abhishek/Desktop/Office/Hello\ World/Hello\ World/Hello\ World-Info.plist -genpkginfo /Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos/Hello\ World.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos/Hello\ World.app/ResourceRules.plist -additionalcontentfile /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/assetcatalog_generated_info.plist -o /Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos/Hello\ World.app/Info.plist36"18966DA6-4E93-4F01-8E57-8AE4008F1494-
+b2E053950-EA97-4968-9D68-FC10A271E471
+
+CProcessPCH /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-bsccveqqqfghrxayxurreoftkfll/Hello\ World-Prefix.pch.pch Hello\ World/Hello\ World-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412603376.623371
+e412603380.354360
+r1
+xProcessPCH
+x/var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello World-Prefix-bsccveqqqfghrxayxurreoftkfll/Hello World-Prefix.pch.pch
+xHello World/Hello World-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/abhishek/Desktop/Office/Hello World/Hello World/Hello World-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile Hello World/Hello World-Prefix.pch319"[1mProcessPCH[0m /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-bsccveqqqfghrxayxurreoftkfll/Hello\ World-Prefix.pch.pch Hello\ World/Hello\ World-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler08c89ff0d397b841^a2eb5af4d397b841^---0#0#1#-19%DVTDocumentLocation2@99"file://localhost/Users/abhishek/Desktop/Office/Hello%20World/Hello%20World/Hello%20World-Prefix.pch0000000000000000^3820"[1mProcessPCH[0m /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-bsccveqqqfghrxayxurreoftkfll/Hello\ World-Prefix.pch.pch Hello\ World/Hello\ World-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/abhishek/Desktop/Office/Hello World"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-generated-files.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-own-target-headers.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-all-target-headers.hmap -iquote /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-project-headers.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/DerivedSources/armv7 -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/DerivedSources -F/Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos --serialize-diagnostics /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-bsccveqqqfghrxayxurreoftkfll/Hello\ World-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-bsccveqqqfghrxayxurreoftkfll/Hello\ World-Prefix.pch.d -c /Users/abhishek/Desktop/Office/Hello\ World/Hello\ World/Hello\ World-Prefix.pch -o /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-bsccveqqqfghrxayxurreoftkfll/Hello\ World-Prefix.pch.pch36"23CFA352-F339-43F8-ADD8-A3098F3B4990-
+b2E053950-EA97-4968-9D68-FC10A271E471
+
+CProcessPCH /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-dcfgkqodzfjfpygbzsfaqcwbuwww/Hello\ World-Prefix.pch.pch Hello\ World/Hello\ World-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412604280.210395
+e412604281.542938
+r1
+xProcessPCH
+x/var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello World-Prefix-dcfgkqodzfjfpygbzsfaqcwbuwww/Hello World-Prefix.pch.pch
+xHello World/Hello World-Prefix.pch
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/abhishek/Desktop/Office/Hello World/Hello World/Hello World-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile Hello World/Hello World-Prefix.pch319"[1mProcessPCH[0m /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-dcfgkqodzfjfpygbzsfaqcwbuwww/Hello\ World-Prefix.pch.pch Hello\ World/Hello\ World-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilera20b3678d797b841^82fe8a79d797b841^---0#0#1#-19%DVTDocumentLocation2@99"file://localhost/Users/abhishek/Desktop/Office/Hello%20World/Hello%20World/Hello%20World-Prefix.pch0000000000000000^3820"[1mProcessPCH[0m /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-dcfgkqodzfjfpygbzsfaqcwbuwww/Hello\ World-Prefix.pch.pch Hello\ World/Hello\ World-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/abhishek/Desktop/Office/Hello World"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch arm64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-generated-files.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-own-target-headers.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-all-target-headers.hmap -iquote /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-project-headers.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/DerivedSources/arm64 -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/DerivedSources -F/Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos --serialize-diagnostics /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-dcfgkqodzfjfpygbzsfaqcwbuwww/Hello\ World-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-dcfgkqodzfjfpygbzsfaqcwbuwww/Hello\ World-Prefix.pch.d -c /Users/abhishek/Desktop/Office/Hello\ World/Hello\ World/Hello\ World-Prefix.pch -o /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-dcfgkqodzfjfpygbzsfaqcwbuwww/Hello\ World-Prefix.pch.pch36"3E55C9C8-2E05-47A6-9245-94DC7F75E6B3-
+bC00D1906-B96C-496F-BB97-7AB803788B8D
+
+CProcessPCH /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-eicghezdhamcqfdrpcswaxvxkiqg/Hello\ World-Prefix.pch.pch Hello\ World/Hello\ World-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412604277.591819
+e412604280.208790
+r1
+xProcessPCH
+x/var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello World-Prefix-eicghezdhamcqfdrpcswaxvxkiqg/Hello World-Prefix.pch.pch
+xHello World/Hello World-Prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/abhishek/Desktop/Office/Hello World/Hello World/Hello World-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile Hello World/Hello World-Prefix.pch320"[1mProcessPCH[0m /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-eicghezdhamcqfdrpcswaxvxkiqg/Hello\ World-Prefix.pch.pch Hello\ World/Hello\ World-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler5ea19775d797b841^5da73578d797b841^---0#0#1#-19%DVTDocumentLocation2@99"file://localhost/Users/abhishek/Desktop/Office/Hello%20World/Hello%20World/Hello%20World-Prefix.pch0000000000000000^3823"[1mProcessPCH[0m /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-eicghezdhamcqfdrpcswaxvxkiqg/Hello\ World-Prefix.pch.pch Hello\ World/Hello\ World-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/abhishek/Desktop/Office/Hello World"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-generated-files.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-own-target-headers.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-all-target-headers.hmap -iquote /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-project-headers.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/DerivedSources/armv7s -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/DerivedSources -F/Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos --serialize-diagnostics /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-eicghezdhamcqfdrpcswaxvxkiqg/Hello\ World-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-eicghezdhamcqfdrpcswaxvxkiqg/Hello\ World-Prefix.pch.d -c /Users/abhishek/Desktop/Office/Hello\ World/Hello\ World/Hello\ World-Prefix.pch -o /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-eicghezdhamcqfdrpcswaxvxkiqg/Hello\ World-Prefix.pch.pch36"69AD55F1-6CF7-42B1-9C9A-0AB642955499-
+bC00D1906-B96C-496F-BB97-7AB803788B8D
+
+CProcessPCH /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-exzhqqsgdelyrgfrcmfziytozvyd/Hello\ World-Prefix.pch.pch Hello\ World/Hello\ World-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412603376.625493
+e412603380.354064
+r1
+xProcessPCH
+x/var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello World-Prefix-exzhqqsgdelyrgfrcmfziytozvyd/Hello World-Prefix.pch.pch
+xHello World/Hello World-Prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/abhishek/Desktop/Office/Hello World/Hello World/Hello World-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile Hello World/Hello World-Prefix.pch320"[1mProcessPCH[0m /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-exzhqqsgdelyrgfrcmfziytozvyd/Hello\ World-Prefix.pch.pch Hello\ World/Hello\ World-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler5741a0f0d397b841^5a9b5af4d397b841^---0#0#1#-19%DVTDocumentLocation2@99"file://localhost/Users/abhishek/Desktop/Office/Hello%20World/Hello%20World/Hello%20World-Prefix.pch0000000000000000^3823"[1mProcessPCH[0m /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-exzhqqsgdelyrgfrcmfziytozvyd/Hello\ World-Prefix.pch.pch Hello\ World/Hello\ World-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/abhishek/Desktop/Office/Hello World"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-generated-files.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-own-target-headers.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-all-target-headers.hmap -iquote /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-project-headers.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/DerivedSources/armv7s -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/DerivedSources -F/Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos --serialize-diagnostics /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-exzhqqsgdelyrgfrcmfziytozvyd/Hello\ World-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-exzhqqsgdelyrgfrcmfziytozvyd/Hello\ World-Prefix.pch.d -c /Users/abhishek/Desktop/Office/Hello\ World/Hello\ World/Hello\ World-Prefix.pch -o /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-exzhqqsgdelyrgfrcmfziytozvyd/Hello\ World-Prefix.pch.pch36"25DFE32E-10A4-48AF-9A48-1FD425187EE3-
+b2E053950-EA97-4968-9D68-FC10A271E471
+
+CProcessPCH /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-gaeriipftxlcoyeniaxfseekoqke/Hello\ World-Prefix.pch.pch Hello\ World/Hello\ World-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412604277.590031
+e412604280.262129
+r1
+xProcessPCH
+x/var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello World-Prefix-gaeriipftxlcoyeniaxfseekoqke/Hello World-Prefix.pch.pch
+xHello World/Hello World-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/abhishek/Desktop/Office/Hello World/Hello World/Hello World-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile Hello World/Hello World-Prefix.pch319"[1mProcessPCH[0m /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-gaeriipftxlcoyeniaxfseekoqke/Hello\ World-Prefix.pch.pch Hello\ World/Hello\ World-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler63439775d797b841^0c404378d797b841^---0#0#1#-19%DVTDocumentLocation2@99"file://localhost/Users/abhishek/Desktop/Office/Hello%20World/Hello%20World/Hello%20World-Prefix.pch0000000000000000^3820"[1mProcessPCH[0m /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-gaeriipftxlcoyeniaxfseekoqke/Hello\ World-Prefix.pch.pch Hello\ World/Hello\ World-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/abhishek/Desktop/Office/Hello World"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=4.3 -iquote /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-generated-files.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-own-target-headers.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-all-target-headers.hmap -iquote /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-project-headers.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/DerivedSources/armv7 -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/DerivedSources -F/Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos --serialize-diagnostics /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-gaeriipftxlcoyeniaxfseekoqke/Hello\ World-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-gaeriipftxlcoyeniaxfseekoqke/Hello\ World-Prefix.pch.d -c /Users/abhishek/Desktop/Office/Hello\ World/Hello\ World/Hello\ World-Prefix.pch -o /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-gaeriipftxlcoyeniaxfseekoqke/Hello\ World-Prefix.pch.pch36"A5E35A17-46F3-4233-9A44-C8A93585E325-
+bC00D1906-B96C-496F-BB97-7AB803788B8D
+
+CProcessPCH /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-glcmbucbrvrqmqctbobzgqsfleqs/Hello\ World-Prefix.pch.pch Hello\ World/Hello\ World-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412603380.355742
+e412603381.749861
+r1
+xProcessPCH
+x/var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello World-Prefix-glcmbucbrvrqmqctbobzgqsfleqs/Hello World-Prefix.pch.pch
+xHello World/Hello World-Prefix.pch
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/abhishek/Desktop/Office/Hello World/Hello World/Hello World-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile Hello World/Hello World-Prefix.pch319"[1mProcessPCH[0m /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-glcmbucbrvrqmqctbobzgqsfleqs/Hello\ World-Prefix.pch.pch Hello\ World/Hello\ World-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilera4345bf4d397b841^59f7bff5d397b841^---0#0#1#-19%DVTDocumentLocation2@99"file://localhost/Users/abhishek/Desktop/Office/Hello%20World/Hello%20World/Hello%20World-Prefix.pch0000000000000000^3820"[1mProcessPCH[0m /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-glcmbucbrvrqmqctbobzgqsfleqs/Hello\ World-Prefix.pch.pch Hello\ World/Hello\ World-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/abhishek/Desktop/Office/Hello World"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch arm64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-generated-files.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-own-target-headers.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-all-target-headers.hmap -iquote /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World-project-headers.hmap -I/Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/DerivedSources/arm64 -I/Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/DerivedSources -F/Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos --serialize-diagnostics /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-glcmbucbrvrqmqctbobzgqsfleqs/Hello\ World-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-glcmbucbrvrqmqctbobzgqsfleqs/Hello\ World-Prefix.pch.d -c /Users/abhishek/Desktop/Office/Hello\ World/Hello\ World/Hello\ World-Prefix.pch -o /var/folders/97/1ry5pqzx3f58rgh64dcssjvw0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Hello\ World-Prefix-glcmbucbrvrqmqctbobzgqsfleqs/Hello\ World-Prefix.pch.pch36"8BB1F50C-9FFF-4DF9-82B8-206C849D21EE-
+b2E053950-EA97-4968-9D68-FC10A271E471
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World.xcent
+s412603575.066100
+e412603575.070534
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist
+x/Users/abhishek/Desktop/Office/Hello World/build/Hello World.build/Release-iphoneos/Hello World.build/Hello World.xcent
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection240"[1mProcessProductPackaging[0m /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist [1mbuild/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World.xcent[0m240"[1mProcessProductPackaging[0m /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist [1mbuild/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World.xcent[0m450e11b7d497b841^281012b7d497b841^---0#0#1#-19%DVTDocumentLocation2@143"file://localhost/Users/abhishek/Desktop/Office/Hello%20World/build/Hello%20World.build/Release-iphoneos/Hello%20World.build/Hello%20World.xcent0000000000000000^837"[1mProcessProductPackaging[0m /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist [1mbuild/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World.xcent[0m    cd "/Users/abhishek/Desktop/Office/Hello World"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist -entitlements -format xml -o /Users/abhishek/Desktop/Office/Hello\ World/build/Hello\ World.build/Release-iphoneos/Hello\ World.build/Hello\ World.xcent36"2EFB30BF-2112-466C-BE18-DBB67DBB45F1-
+b025A7F23-739F-4D09-B61A-6617B0209779
+
+CProcessProductPackaging /Users/abhishek/Library/MobileDevice/Provisioning\ Profiles/47A9BD2C-3A49-47CC-819C-7B0F55536CF1.mobileprovision /Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos/Hello\ World.app/embedded.mobileprovision
+s412603403.249116
+e412603403.281544
+r1
+xProcessProductPackaging
+x/Users/abhishek/Library/MobileDevice/Provisioning Profiles/47A9BD2C-3A49-47CC-819C-7B0F55536CF1.mobileprovision
+x/Users/abhishek/Desktop/Office/Hello World/build/Release-iphoneos/Hello World.app/embedded.mobileprovision
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection217"[1mProcessProductPackaging[0m /Users/abhishek/Library/MobileDevice/Provisioning\ Profiles/47A9BD2C-3A49-47CC-819C-7B0F55536CF1.mobileprovision [1mbuild/Release-iphoneos/Hello\ World.app/embedded.mobileprovision[0m217"[1mProcessProductPackaging[0m /Users/abhishek/Library/MobileDevice/Provisioning\ Profiles/47A9BD2C-3A49-47CC-819C-7B0F55536CF1.mobileprovision [1mbuild/Release-iphoneos/Hello\ World.app/embedded.mobileprovision[0m69e43f0bd497b841^a514480bd497b841^---0#0#1#-19%DVTDocumentLocation2@126"file://localhost/Users/abhishek/Desktop/Office/Hello%20World/build/Release-iphoneos/Hello%20World.app/embedded.mobileprovision0038489adfffdf42^765"[1mProcessProductPackaging[0m /Users/abhishek/Library/MobileDevice/Provisioning\ Profiles/47A9BD2C-3A49-47CC-819C-7B0F55536CF1.mobileprovision [1mbuild/Release-iphoneos/Hello\ World.app/embedded.mobileprovision[0m    cd "/Users/abhishek/Desktop/Office/Hello World"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-productPackagingUtility /Users/abhishek/Library/MobileDevice/Provisioning\ Profiles/47A9BD2C-3A49-47CC-819C-7B0F55536CF1.mobileprovision -o /Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos/Hello\ World.app/embedded.mobileprovision36"7F315AA3-4904-4C6A-8B12-3E8C99C28779-
+b2E053950-EA97-4968-9D68-FC10A271E471
+
+CTouch /Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos/Hello\ World.app
+r0
+
+CValidate /Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos/Hello\ World.app
+s412603577.387306
+e412603577.846865
+r1
+xValidate
+x/Users/abhishek/Desktop/Office/Hello World/build/Release-iphoneos/Hello World.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"[1mValidate[0m [1mbuild/Release-iphoneos/Hello\ World.app[0m64"[1mValidate[0m [1mbuild/Release-iphoneos/Hello\ World.app[0m634363b9d497b841^a5ddd8b9d497b841^---0#0#1#-19%DVTDocumentLocation2@102"file://localhost/Users/abhishek/Desktop/Office/Hello%20World/build/Release-iphoneos/Hello%20World.app/0000000000000000^598"[1mValidate[0m [1mbuild/Release-iphoneos/Hello\ World.app[0m    cd "/Users/abhishek/Desktop/Office/Hello World"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    setenv PRODUCT_TYPE com.apple.product-type.application    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/Validation /Users/abhishek/Desktop/Office/Hello\ World/build/Release-iphoneos/Hello\ World.app36"54847945-0E20-42E0-A79E-4DB9B3CF83F9-
+b025A7F23-739F-4D09-B61A-6617B0209779
+
