@@ -5,9 +5,9 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
-	<string>${PRODUCT_NAME}</string>
+	<string>Hello World</string>
 	<key>CFBundleExecutable</key>
-	<string>${EXECUTABLE_NAME}</string>
+	<string>Hello World</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.mycitywaynow.wesh</string>
 	<key>CFBundleInfoDictionaryVersion</key>
